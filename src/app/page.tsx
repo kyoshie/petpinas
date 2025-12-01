@@ -31,7 +31,7 @@ export default function Home() {
       </nav>
 
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-secondary/40 to-background py-20 sm:py-32 px-4 sm:px-6 lg:px-8">
+      <section className="bg-linear-to-br from-secondary/40 to-background py-20 sm:py-32 px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
@@ -252,7 +252,7 @@ export default function Home() {
       </section>
 
       {/* Final CTA Section */}
-      <section className="py-20 sm:py-32 px-4 sm:px-6 lg:px-8 bg-gradient-to-r from-primary/20 to-secondary/20">
+      <section className="py-20 sm:py-32 px-4 sm:px-6 lg:px-8 bg-linear-to-r from-primary/20 to-secondary/20">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-6 text-balance">
             Join the Community of Pet Lovers Today!
